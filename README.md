@@ -5,14 +5,18 @@
 
 
 ## 🛠 Tech Stack
+**Frontend**
+- react
+
 **Backend**
 - Java, Spring Boot
-- JPA / Hibernate
-- REST API
+- Python, FastAPI
+- Javascript, NodeJS
 
 **Database**
 - MySQL
 - PostgreSQL
+- JPA
 
 **DevOps / Tools**
 - Git & GitHub
@@ -33,3 +37,4 @@
 
 
 ⭐️ 꾸준히 성장하는 개발자가 되겠습니다.
+
