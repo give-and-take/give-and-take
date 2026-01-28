@@ -16,7 +16,6 @@
 **Database**
 - MySQL
 - PostgreSQL
-- JPA
 
 **DevOps / Tools**
 - Git & GitHub
@@ -39,5 +38,6 @@
 - 우수상 / 단국대학교 SW융합대학 캡스톤 페스티벌 우수상
 
 ⭐️ 꾸준히 성장하는 개발자가 되겠습니다.
+
 
 
